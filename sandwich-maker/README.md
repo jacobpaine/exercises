@@ -1,4 +1,4 @@
-Run the sandwich.html code in a browser. Make sure to remember to place sandwich.html in the same directory as meat.js, bread.js, and sandwich-maker.js.
+Run the sandwich.html code in a browser. Make sure to remember to place sandwich.html in the same directory as meat.js, bread.js, and sandwich-builder.js.
 
 This code is intended to help build a sandwich and record the total cost. It currently only uses
 the bread and the meat (although there are other boxes in the HTML) and display prices in the console log.
