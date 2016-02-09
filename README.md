@@ -15,7 +15,7 @@ Like `git status` for example.
 
 Three backticks before and after calls out a block of code.
 
-```
+```javascript
 function bPaisley(song){
   if(seeYouOutInTheMoonlight){
     if(kissingWayBackInTheSticks){
