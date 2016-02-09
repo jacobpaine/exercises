@@ -5,6 +5,8 @@
 #####exercises 5
 ######exercises 6
 
+![alt tag](https://img.shields.io/badge/quality-high-brightgreen.svg)
+
 **bold** *italicized* **_bold and italicized_** ~~strikethrough~~
 
 Quoth the Raven:
