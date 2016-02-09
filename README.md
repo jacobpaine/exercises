@@ -31,7 +31,8 @@ function bPaisley(song){
 
 - item 1
 - item 2
-* item 3
 
+- [ ] task 1 undone
+- [x] task 2 done
 
-
+@
