@@ -27,7 +27,7 @@ function bPaisley(song){
 }
 ```
 
-[The Title of the Link](google.com) [] around title. () around address.
+[The Title of the Link within Github Repo](calculator/index.html) [] around title. () around address.
 
 - item 1
 - item 2
