@@ -35,5 +35,7 @@ function bPaisley(song){
 - [ ] task 1 undone
 - [x] task 2 done
 
-Hashtag before a number create a link to a pull request. GH-#1 https://github.com/jacobpaine/exercises/pull/1
+Hashtag before a number create a link to a pull request. 
+GH-#1 
+jacobpaine/exercises#1
 
