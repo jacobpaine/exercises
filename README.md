@@ -1,3 +1,3 @@
 # Exercises
-Some classroom exercises.
+Some classroom exercises from the front-end.
 
